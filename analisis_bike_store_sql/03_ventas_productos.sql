@@ -1,7 +1,6 @@
 -- ==========================================================
 -- Análisis de Negocio: Rendimiento de Empleados por Ingresos
--- Descripción: Identifica qué vendedores generan más ingresos totales 
--- y en qué tienda operan.
+-- Descripción: Identifica qué vendedores generan más ingresos totales y en qué tienda operan.
 -- ==========================================================
 
 SELECT 

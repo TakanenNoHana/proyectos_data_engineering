@@ -1,7 +1,6 @@
 -- ==========================================================
 -- Análisis de Negocio: Productos más vendidos y control de stock
--- Descripción: Identifica los productos con mayores ventas totales 
--- para evaluar si el inventario actual es suficiente.
+-- Descripción: Identifica los productos con mayores ventas totales para evaluar si el inventario actual es suficiente.
 -- ==========================================================
 
 SELECT 
