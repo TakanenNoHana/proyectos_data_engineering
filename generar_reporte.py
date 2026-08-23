@@ -9,6 +9,7 @@ query = """
 SELECT 
     s.store_name,
     p.product_name,
+    p.product_id,
     st.quantity AS stock_disponible
 FROM stocks st
 INNER JOIN stores s ON st.store_id = s.store_id
