@@ -25,4 +25,4 @@ conexion.close()
 # 5. Exportar ese DataFrame a un archivo CSV nuevo
 df_reporte.to_csv("reporte_inventario.csv", index=False)
 
-print("¡Reporte generado y guardado con éxito como 'reporte_inventario.csv'! 🚀")
+print("¡Reporte generado y guardado con éxito como 'reporte_inventario.csv'!")
