@@ -21,7 +21,7 @@ df_reporte = pd.read_sql(query, conexion)
 # 4. Cerrar la conexión a la base de datos 
 conexion.close()
 
-# 5. Exportar ese DataFrame a un archivo CSV nuevo en tu computadora
+# 5. Exportar ese DataFrame a un archivo CSV nuevo
 df_reporte.to_csv("reporte_inventario.csv", index=False)
 
 print("¡Reporte generado y guardado con éxito como 'reporte_inventario.csv'! 🚀")
